@@ -11,3 +11,6 @@
 ## https://wasix.org/docs/api-reference/wasi/fd_write
 - fd_write api refs
 
+## https://github.com/bytecodealliance/wasmtime/issues/4985
+- about export memory
+
