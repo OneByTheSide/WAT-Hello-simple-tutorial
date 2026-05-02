@@ -8,4 +8,6 @@
 ## https://developer.mozilla.org/en-US/docs/WebAssembly/Reference/Memory/store#syntax
 - syntax like i32.store
 
+## https://wasix.org/docs/api-reference/wasi/fd_write
+- fd_write api refs
 
